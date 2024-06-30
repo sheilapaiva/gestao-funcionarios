@@ -135,3 +135,8 @@ Nome: Helena, Salários Mínimos: 2.54
 
 - Java 8 ou superior.
 - Uma IDE Java (Visual Studio Code, Eclipse, IntelliJ).
+
+## Outra Versão desse mesmo Projeto usando Spring Boot
+```
+https://github.com/sheilapaiva/gestao-funcionarios-api
+```
